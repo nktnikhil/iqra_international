@@ -909,6 +909,7 @@ footer p {
     /***nav***/
     .logo {
         font-size: 8vw;
+        display:none;
     }
     .navbar-dark .navbar-toggler-icon {
         height: 1.2em;
